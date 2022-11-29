@@ -22,4 +22,4 @@ async def coe(interaction: discord.Integration):
     await interaction.response.send_message(f"Fala fio bom?!")
 
 
-bot.run('MTA0NjkyMDI2MzcxNzEwOTgzNQ.G0RM5v.W_C2JvkdlZ1l5aLViSoX8LWpNBfXd2jbZRkE0Y')
+bot.run('token :D')
